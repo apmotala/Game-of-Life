@@ -1,4 +1,3 @@
-Conway's Game of Life
----------------------
+<ins>Conway's Game of Life</ins>
 
-This is just a simple randomised version of the simulation modelled in Jupyter.
+A simple randomised version of the simulation modelled in Jupyter.
